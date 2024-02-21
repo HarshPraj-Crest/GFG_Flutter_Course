@@ -49,6 +49,10 @@ analysis_benchmark.json
 # packages file containing multi-root paths
 .packages.generated
 
+# Hidden files
+/lib/firebase_options.dart
+/ios/Runner/GoggleService-Info.plist
+
 # Flutter/Dart/Pub related
 **/doc/api/
 .dart_tool/
